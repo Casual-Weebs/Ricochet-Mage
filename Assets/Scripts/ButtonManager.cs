@@ -14,7 +14,10 @@ public class ButtonManager : MonoBehaviour
     {
         SceneManager.LoadScene(optionsButton);
     }
-
+    public void QuitBtn(string quitButton)
+    {
+        SceneManager.LoadScene(quitButton);
+    }
     public void VolumeBtn(string volumeButton)
     {
         SceneManager.LoadScene(volumeButton);
