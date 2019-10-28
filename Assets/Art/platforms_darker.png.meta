@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 3dfcd8e20fb8d90469cc4f29683dd269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1270101141612163184
+    second: platforms_darker_0
+  - first:
+      213: -2904118421444106651
+    second: platforms_darker_1
+  - first:
+      213: 2877199179339830988
+    second: platforms_darker_2
+  - first:
+      213: -4519752435669551941
+    second: platforms_darker_3
+  - first:
+      213: 3951265561450988240
+    second: platforms_darker_4
+  - first:
+      213: -8513540450751047868
+    second: platforms_darker_5
+  - first:
+      213: 4883499038156301230
+    second: platforms_darker_6
+  - first:
+      213: 4037686010826989911
+    second: platforms_darker_7
+  - first:
+      213: 2375216227317473461
+    second: platforms_darker_8
+  - first:
+      213: 755012008421784045
+    second: platforms_darker_9
+  - first:
+      213: -2625121632058867710
+    second: platforms_darker_10
+  - first:
+      213: -517898065137829410
+    second: platforms_darker_11
+  - first:
+      213: -4670443638673932471
+    second: platforms_darker_12
+  - first:
+      213: 3827461984872826571
+    second: platforms_darker_13
+  - first:
+      213: -1229936923236497590
+    second: platforms_darker_14
+  - first:
+      213: 6601483168101584813
+    second: platforms_darker_15
+  - first:
+      213: -8409847158950603181
+    second: platforms_darker_16
+  - first:
+      213: 491516074107696174
+    second: platforms_darker_17
+  - first:
+      213: 7363924065473065871
+    second: platforms_darker_18
+  - first:
+      213: -3816799537009950661
+    second: platforms_darker_19
+  - first:
+      213: -8030068230386521755
+    second: platforms_darker_20
+  - first:
+      213: -89704877800379918
+    second: platforms_darker_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platforms_darker_0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1095
+        width: 421
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b4cf166312333408576c75b50c43df
+      internalID: 1270101141612163184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1236
+        width: 657
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde4b4472d897784ea394396d518b9f4
+      internalID: -2904118421444106651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_2
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1347
+        width: 599
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c5d2461dd43c44bdebc702c54c29e
+      internalID: 2877199179339830988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_3
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1026
+        width: 207
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7178fc87e32a48b36c0edcbe070f3
+      internalID: -4519752435669551941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_4
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1163
+        width: 174
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bebd1b78816f6741ba92d334079fc12
+      internalID: 3951265561450988240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_5
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1149
+        width: 601
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875e6c047cd1684eb38a498cf538c36
+      internalID: -8513540450751047868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_6
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 1169
+        width: 167
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74828f7d5f52ed34e828b518e1d6b6ae
+      internalID: 4883499038156301230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_7
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 945
+        width: 656
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2060deb4d0f8a84aa48898b3414b5b7
+      internalID: 4037686010826989911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_8
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 781
+        width: 1084
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fc2ca8414bb4446a31c05dd3c24a2b
+      internalID: 2375216227317473461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 870
+        width: 388
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ace56c6f25e74a8866e0fff45b993
+      internalID: 755012008421784045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_10
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 866
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a85e6248cfcfa42ad467b8f738dc4f
+      internalID: -2625121632058867710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_11
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 728
+        width: 572
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3873d659246c5e48936575b23c4d127
+      internalID: -517898065137829410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_12
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 805
+        width: 839
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128f8b69b4f658642ab09c9c1c36b152
+      internalID: -4670443638673932471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_13
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 718
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241f1d7ed7d0d3f4ab27fb553c23b8fe
+      internalID: 3827461984872826571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_14
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 718
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a4dc50e2ef2184db638eb9c0e89178
+      internalID: -1229936923236497590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_15
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 708
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397a90e00c103d478f91c5ea2590b0d
+      internalID: 6601483168101584813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 522
+        width: 496
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8622ecbe168965540b69dd144bac8c97
+      internalID: -8409847158950603181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_17
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 625
+        width: 1013
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a355258fca3c24fa89cf1152947080
+      internalID: 491516074107696174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_18
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 441
+        width: 574
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f2b4730ad65249839b43ba2e3b210
+      internalID: 7363924065473065871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_19
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 111
+        width: 764
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46b6e398463e9e4e89fcba8df629611
+      internalID: -3816799537009950661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_20
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 431
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb32046efa117d64182fd314d2f71945
+      internalID: -8030068230386521755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platforms_darker_21
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 245
+        width: 576
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf14a0b33f3d90249a1b76cd49e1ede7
+      internalID: -89704877800379918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8a9839c9247a5674da20cf08de59709a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
