@@ -5,6 +5,8 @@ using UnityEngine;
 public class GameWin : MonoBehaviour
 {
     public GameObject ricochetWin;
+    public GameObject ricochetLose;
+    public float mana;
     void Start()
     {
         
@@ -15,7 +17,12 @@ public class GameWin : MonoBehaviour
     {
         if (GameObject.FindGameObjectsWithTag("Enemy").Length <= 0)
         {
-                ricochetWin.SetActive(true);
+            ricochetWin.SetActive(true);
+        }
+
+        if (GameObject.FindGameObjectsWithTag("Enemy").Length > 0 || mana <= 0)
+        {
+            ricochetLose.SetActive(true);
         }
     }
 }
