@@ -39,14 +39,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
+  - name: Menu
+    uniqueID: 1378392307
     locked: 0
   - name: Character
     uniqueID: 4172830519
     locked: 0
   - name: Wand
     uniqueID: 4095265541
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
   - name: Background
     uniqueID: 3231950321
