@@ -3179,8 +3179,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2536871b3154f4f9eb99e8d50e2c93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ricochetWin: {fileID: 0}
-  ricochetLose: {fileID: 0}
+  ricochetWin: {fileID: 1518346821}
+  ricochetLose: {fileID: 343064420}
   mana: 3
   firePoint: {fileID: 149462868}
   bulletPrefab: {fileID: 7469260040553928930, guid: aea359d4dffd1ff4eb41142005151090,
