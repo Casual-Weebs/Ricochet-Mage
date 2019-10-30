@@ -1068,7 +1068,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 617328904}
         m_MethodName: LevelBtn
         m_Mode: 5
         m_Arguments:
@@ -1076,7 +1076,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: LvL_01
+          m_StringArgument: LvL_03
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -2061,7 +2061,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 617328904}
         m_MethodName: LevelBtn
         m_Mode: 5
         m_Arguments:
@@ -2069,7 +2069,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: LvL_02
+          m_StringArgument: LvL_03
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -2237,7 +2237,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 617328904}
         m_MethodName: QuitBtn
         m_Mode: 5
         m_Arguments:
@@ -2370,7 +2370,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 617328904}
         m_MethodName: QuitBtn
         m_Mode: 5
         m_Arguments:
@@ -2926,7 +2926,6 @@ Transform:
   m_LocalScale: {x: 20, y: 20, z: 20}
   m_Children:
   - {fileID: 371529404}
-  - {fileID: 1091394441}
   m_Father: {fileID: 92157939}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3550,8 +3549,8 @@ RectTransform:
   m_Children:
   - {fileID: 547949260}
   - {fileID: 647934008}
-  m_Father: {fileID: 854813027}
-  m_RootOrder: 1
+  m_Father: {fileID: 2139200478}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -4206,6 +4205,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ricochetWin: {fileID: 2139200477}
   ricochetLose: {fileID: 854813026}
+  ricochetWinButton: {fileID: 1091394440}
+  ricochetLoseButton: {fileID: 371529403}
   mana: 3
   firePoint: {fileID: 149462868}
   bulletPrefab: {fileID: 7469260040553928930, guid: aea359d4dffd1ff4eb41142005151090,
@@ -5314,7 +5315,8 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 30, z: 0}
   m_LocalScale: {x: 20, y: 20, z: 20}
-  m_Children: []
+  m_Children:
+  - {fileID: 1091394441}
   m_Father: {fileID: 92157939}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

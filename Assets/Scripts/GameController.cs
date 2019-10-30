@@ -6,6 +6,8 @@ public class GameController : MonoBehaviour
 {
     public GameObject ricochetWin;
     public GameObject ricochetLose;
+    public GameObject ricochetWinButton;
+    public GameObject ricochetLoseButton;
 
     public float mana;
     public Transform firePoint;
@@ -22,11 +24,15 @@ public class GameController : MonoBehaviour
         if (GameObject.FindGameObjectsWithTag("Enemy").Length <= 0)
         {
             ricochetWin.SetActive(true);
+
+            ricochetWinButton.SetActive(true);
         }
         //Lose
         if (GameObject.FindGameObjectsWithTag("Enemy").Length > 0 && GameObject.FindGameObjectsWithTag("Bullet").Length <= 0 && mana <= 0)
         {
             ricochetLose.SetActive(true);
+
+            ricochetLoseButton.SetActive(true);
         }
     }
     void Shoot()

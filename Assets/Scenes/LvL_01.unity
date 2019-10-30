@@ -383,6 +383,8 @@ RectTransform:
   - {fileID: 1141989599}
   - {fileID: 1450708046}
   - {fileID: 323601168}
+  - {fileID: 816759173}
+  - {fileID: 395223878}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1190,8 +1192,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 8.6, z: 0}
   m_LocalScale: {x: 15.149999, y: 13.331999, z: 0}
-  m_Children:
-  - {fileID: 816759173}
+  m_Children: []
   m_Father: {fileID: 1008237421}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1484,17 +1485,17 @@ RectTransform:
   m_GameObject: {fileID: 395223877}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.90909094, y: 0.8080808, z: 0}
+  m_LocalScale: {x: 20, y: 17.599997, z: 0}
   m_Children:
   - {fileID: 579617055}
   - {fileID: 2068686379}
-  m_Father: {fileID: 800983157}
-  m_RootOrder: 0
+  m_Father: {fileID: 92157939}
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.9060893, y: 0.24244785}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0.50231934, y: 11.690384}
+  m_SizeDelta: {x: -799.3255, y: -399.32547}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &395223879
 MonoBehaviour:
@@ -2665,8 +2666,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 15.1, y: 4.6, z: 0}
   m_LocalScale: {x: 16.664999, y: 16.498348, z: 0}
-  m_Children:
-  - {fileID: 395223878}
+  m_Children: []
   m_Father: {fileID: 1008237421}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2745,17 +2745,17 @@ RectTransform:
   m_GameObject: {fileID: 816759172}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 0}
+  m_LocalScale: {x: 20, y: 17.599998, z: 0}
   m_Children:
   - {fileID: 840921964}
   - {fileID: 2139038462}
-  m_Father: {fileID: 291993681}
-  m_RootOrder: 0
+  m_Father: {fileID: 92157939}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0.5022888, y: 11.690399}
+  m_SizeDelta: {x: -799.3255, y: -399.32547}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &816759174
 MonoBehaviour:
@@ -4744,6 +4744,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ricochetWin: {fileID: 291993680}
   ricochetLose: {fileID: 800983156}
+  ricochetWinButton: {fileID: 816759172}
+  ricochetLoseButton: {fileID: 395223877}
   mana: 4
   firePoint: {fileID: 149462868}
   bulletPrefab: {fileID: 7469260040553928930, guid: aea359d4dffd1ff4eb41142005151090,
