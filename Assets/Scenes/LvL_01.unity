@@ -355,7 +355,7 @@ PolygonCollider2D:
   m_GameObject: {fileID: 96723017}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b93fe3701cb72554faebcc3398fc2e5f, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1617,7 +1617,7 @@ PolygonCollider2D:
   m_GameObject: {fileID: 649043201}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b93fe3701cb72554faebcc3398fc2e5f, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2791,7 +2791,7 @@ PolygonCollider2D:
   m_GameObject: {fileID: 1503550388}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b93fe3701cb72554faebcc3398fc2e5f, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3245,7 +3245,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b93fe3701cb72554faebcc3398fc2e5f, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -3423,7 +3423,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ricochetWin: {fileID: 291993680}
   ricochetLose: {fileID: 800983156}
-  mana: 0
+  mana: 3
+  firePoint: {fileID: 149462868}
+  bulletPrefab: {fileID: 7469260040553928930, guid: aea359d4dffd1ff4eb41142005151090,
+    type: 3}
 --- !u!1 &1596035863
 GameObject:
   m_ObjectHideFlags: 0
@@ -3656,7 +3659,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1831306644}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1e528a812a869e843a5e010490b69f5a, type: 3}
   m_Name: 
