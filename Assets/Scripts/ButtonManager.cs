@@ -27,6 +27,7 @@ public class ButtonManager : MonoBehaviour
     {
         SceneManager.LoadScene(backButton);
     }
+
     public void ExitGameBtn()
     {
         Application.Quit();
