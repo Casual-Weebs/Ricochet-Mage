@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 3e87483865c812045805acaa537ecc46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3133314354492434872
+    second: pp_gnomep_idle_0
+  - first:
+      213: -3124811669154722638
+    second: pp_gnomep_idle_1
+  - first:
+      213: 6587591482072335638
+    second: pp_gnomep_idle_2
+  - first:
+      213: -8943265129054862946
+    second: pp_gnomep_idle_3
+  - first:
+      213: -4009067360836933761
+    second: pp_gnomep_idle_4
+  - first:
+      213: 2599430559544014130
+    second: pp_gnomep_idle_5
+  - first:
+      213: -8601588969023585117
+    second: pp_gnomep_idle_6
+  - first:
+      213: 2124532979695116251
+    second: pp_gnomep_idle_7
+  - first:
+      213: -6109440070020539095
+    second: pp_gnomep_idle_8
+  - first:
+      213: -7149646008832065017
+    second: pp_gnomep_idle_9
+  - first:
+      213: 3561090225305103207
+    second: pp_gnomep_idle_10
+  - first:
+      213: -2680511399683022495
+    second: pp_gnomep_idle_11
+  - first:
+      213: 1793460697047134363
+    second: pp_gnomep_idle_12
+  - first:
+      213: -6226506030306906735
+    second: pp_gnomep_idle_13
+  - first:
+      213: 5406692259114846239
+    second: pp_gnomep_idle_14
+  - first:
+      213: 8519282110326286680
+    second: pp_gnomep_idle_15
+  - first:
+      213: -3437357940509921295
+    second: pp_gnomep_idle_16
+  - first:
+      213: 8923769474925175207
+    second: pp_gnomep_idle_17
+  - first:
+      213: 5123242183336622923
+    second: pp_gnomep_idle_18
+  - first:
+      213: -4269578425981416779
+    second: pp_gnomep_idle_19
+  - first:
+      213: 6837200362469567464
+    second: pp_gnomep_idle_20
+  - first:
+      213: -2073823893362306172
+    second: pp_gnomep_idle_21
+  - first:
+      213: -6306026928133933694
+    second: pp_gnomep_idle_22
+  - first:
+      213: 8457347614098547179
+    second: pp_gnomep_idle_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pp_gnomep_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc98dad5170024fba211b8f7a32646
+      internalID: 3133314354492434872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1360
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71a524357e5c6144a42b2358ee2fddb
+      internalID: -3124811669154722638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1360
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d712d345e494f41a4aaa6520e2416e
+      internalID: 6587591482072335638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1360
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409554e1f0081944ebf007bf35ec47b7
+      internalID: -8943265129054862946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1360
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef279b585071b14fab56e123ac15ff9
+      internalID: -4009067360836933761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699a0580ec3ae7041b7aea6f97497a52
+      internalID: 2599430559544014130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1020
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e047615fd612d942970313c82eac2ae
+      internalID: -8601588969023585117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1020
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d6c12ab905ff49b07c60aa3c300d1
+      internalID: 2124532979695116251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_8
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1020
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d4a5947e9ab541804c3c6e893f4ae
+      internalID: -6109440070020539095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_9
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1020
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c007a58d781ce46478b8932316bff5a0
+      internalID: -7149646008832065017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc85f808a30736b49a1b5fe56ad30320
+      internalID: 3561090225305103207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 680
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5224d8d513512449744c5f65997030
+      internalID: -2680511399683022495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 680
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc848e5265eb74d9f291943cb405a0
+      internalID: 1793460697047134363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_13
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 680
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92446d307e4dab4b866af4237a03e97
+      internalID: -6226506030306906735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 680
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b9a146d77fc34ea4714c0361b9f86
+      internalID: 5406692259114846239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e91edb76f13a2547b1d04fce17cff6f
+      internalID: 8519282110326286680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 340
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ecd2d0c458734f8d35a6d566160c0
+      internalID: -3437357940509921295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 340
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c870663ca8f374fa284f9ca2857094
+      internalID: 8923769474925175207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 340
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3445c18b4dabea94cbeb46a61363e8e4
+      internalID: 5123242183336622923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_19
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 340
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf979a4caa3e44bb4c9a3492506b3e
+      internalID: -4269578425981416779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ea4f4410a7e6342adbc937ea754cb0
+      internalID: 6837200362469567464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fa38d8af4a034780c89ca2f3dede6
+      internalID: -2073823893362306172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444ad07db92fd54489df19c74f3be9d
+      internalID: -6306026928133933694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pp_gnomep_idle_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 245
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70cc9962739b7943a7303c4e890a7fc
+      internalID: 8457347614098547179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c8dcf9f6367c1db4ebbb35000d24e495
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
