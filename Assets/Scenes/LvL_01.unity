@@ -5188,6 +5188,14 @@ MonoBehaviour:
   ricochetLose: {fileID: 800983156}
   ricochetWinButton: {fileID: 816759172}
   ricochetLoseButton: {fileID: 395223877}
+  shot1: {fileID: 731797782}
+  shot2: {fileID: 1671857822}
+  shot3: {fileID: 1298209367}
+  shot4: {fileID: 278189718}
+  enemy1: {fileID: 1509092152}
+  enemy2: {fileID: 403588103}
+  enemy3: {fileID: 395569137}
+  enemy4: {fileID: 0}
   mana: 4
   firePoint: {fileID: 149462868}
   bulletPrefab: {fileID: 7469260040553928930, guid: aea359d4dffd1ff4eb41142005151090,
