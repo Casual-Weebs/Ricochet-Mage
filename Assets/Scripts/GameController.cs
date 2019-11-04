@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,6 +9,7 @@ public class GameController : MonoBehaviour
     public GameObject ricochetLose;
     public GameObject ricochetWinButton;
     public GameObject ricochetLoseButton;
+    private float wait = .1f;
 
     public float mana;
     public Transform firePoint;
@@ -18,7 +20,8 @@ public class GameController : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1") && mana > 0)
         {
-            Shoot();
+            StartCoroutine(waitShot());
+            //Shoot();
         }
         //Win
         if (GameObject.FindGameObjectsWithTag("Enemy").Length <= 0)
@@ -34,6 +37,12 @@ public class GameController : MonoBehaviour
 
             ricochetLoseButton.SetActive(true);
         }
+    }
+    
+    IEnumerator waitShot()
+    {
+        yield return new WaitForSeconds(wait);
+        Shoot();
     }
     void Shoot()
     {
