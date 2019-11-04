@@ -26,9 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LvL_03.unity
     guid: 6f0a719023e216b48be16b7a0e334978
-  - enabled: 1
-    path: Assets/Scenes/Level_04.unity
-    guid: cc71779dfa5d44a4e8651e987fa73f7a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/LogoSplash.unity
     guid: 2d4dc190857ca644cb964f19a3b61fdb
