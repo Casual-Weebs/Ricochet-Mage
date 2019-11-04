@@ -4394,7 +4394,7 @@ MonoBehaviour:
   enemy4: {fileID: 1215257703}
   mana: 3
   firePoint: {fileID: 149462868}
-  bulletPrefab: {fileID: 7469260040553928930, guid: aea359d4dffd1ff4eb41142005151090,
+  bulletPrefab: {fileID: 7469260040553928930, guid: 76aca7b9eeefa674d92fcd8efbfc2a6d,
     type: 3}
 --- !u!1 &1596035863
 GameObject:

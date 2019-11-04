@@ -4455,17 +4455,17 @@ MonoBehaviour:
   ricochetLose: {fileID: 343064420}
   ricochetWinButton: {fileID: 1528438096}
   ricochetLoseButton: {fileID: 1995002853}
-  shot1: {fileID: 0}
-  shot2: {fileID: 0}
-  shot3: {fileID: 0}
+  shot1: {fileID: 1448845989}
+  shot2: {fileID: 1270114252}
+  shot3: {fileID: 731913835}
   shot4: {fileID: 0}
-  enemy1: {fileID: 0}
-  enemy2: {fileID: 0}
-  enemy3: {fileID: 0}
+  enemy1: {fileID: 377162216}
+  enemy2: {fileID: 1366253963}
+  enemy3: {fileID: 1935708822}
   enemy4: {fileID: 0}
   mana: 3
   firePoint: {fileID: 149462868}
-  bulletPrefab: {fileID: 7469260040553928930, guid: aea359d4dffd1ff4eb41142005151090,
+  bulletPrefab: {fileID: 7469260040553928930, guid: 180d5d72ff13921408e8a1d258e99c60,
     type: 3}
 --- !u!1 &1596035863
 GameObject:
