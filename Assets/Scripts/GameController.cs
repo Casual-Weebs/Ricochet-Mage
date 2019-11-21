@@ -20,11 +20,14 @@ public class GameController : MonoBehaviour
     public GameObject enemy3;
     public GameObject enemy4;
 
+    private bool charge = false;
 
-    private float wait = .1f;
+    private float wait = 1f;
 
     public float mana;
     public Transform firePoint;
+    public Transform scatterPoint1;
+    public Transform scatterPoint2;
     public GameObject bulletPrefab;
 
     // Update is called once per frame
@@ -32,8 +35,19 @@ public class GameController : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1") && mana > 0)
         {
+            charge = false;
             StartCoroutine(waitShot());
-            //Shoot();
+        }
+
+        if (Input.GetButtonUp("Fire1") && mana > 0 && charge == false)
+        {
+            Shoot();
+        }
+
+        if (Input.GetButtonUp("Fire1") && charge == true && mana >= 2)
+        {
+            Shoot();
+            ScatterShoot();
         }
 
         //Enemy HUD
@@ -62,12 +76,24 @@ public class GameController : MonoBehaviour
     IEnumerator waitShot()
     {
         yield return new WaitForSeconds(wait);
-        Shoot();
+        charge = true;
+        //Shoot();
     }
     void Shoot()
     {
         //shooting logic
         Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        mana--;
+        if (mana == 3) shot4.SetActive(false);
+        if (mana == 2) shot3.SetActive(false);
+        if (mana == 1) shot2.SetActive(false);
+        if (mana == 0) shot1.SetActive(false);
+    }
+    
+    void ScatterShoot()
+    {
+        Instantiate(bulletPrefab, scatterPoint1.position, firePoint.rotation);
+        Instantiate(bulletPrefab, scatterPoint2.position, firePoint.rotation);
         mana--;
         if (mana == 3) shot4.SetActive(false);
         if (mana == 2) shot3.SetActive(false);
