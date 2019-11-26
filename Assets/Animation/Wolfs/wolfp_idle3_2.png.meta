@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: b4bddb3645525bd48a99e2625050020c
+guid: ea43bf98148a8b44e854ca12855ca00f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6826711078477288556
-    second: smwolfp_idle3_0
+      213: 990102843766110570
+    second: wolfp_idle3_2_0
   - first:
-      213: -8664307424241121787
-    second: smwolfp_idle3_1
+      213: 8595689844825359712
+    second: wolfp_idle3_2_1
   - first:
-      213: 6166604201033984185
-    second: smwolfp_idle3_2
+      213: 3504608324937919412
+    second: wolfp_idle3_2_2
   - first:
-      213: -3214567986202110184
-    second: smwolfp_idle3_3
+      213: -5833938975955073093
+    second: wolfp_idle3_2_3
   - first:
-      213: -821372482509862284
-    second: smwolfp_idle3_4
+      213: 1483584821962471539
+    second: wolfp_idle3_2_4
   - first:
-      213: -8548247965250368214
-    second: smwolfp_idle3_5
+      213: -345796553578108330
+    second: wolfp_idle3_2_5
   - first:
-      213: -7192718699632818888
-    second: smwolfp_idle3_6
+      213: 4199688589013941381
+    second: wolfp_idle3_2_6
   - first:
-      213: 6844074617806728131
-    second: smwolfp_idle3_7
+      213: 5792612752353302076
+    second: wolfp_idle3_2_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -116,17 +116,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
     buildTarget: Lumin
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -152,148 +141,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: smwolfp_idle3_1
+      name: wolfp_idle3_2_0
       rect:
         serializedVersion: 2
-        x: 16
+        x: 5
         y: 0
         width: 346
         height: 332
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8a6240093b8ba647bfd29e5270e3737
-      internalID: -8664307424241121787
+      spriteID: ecb9fa8f426b90845bd8592cc0fb5e49
+      internalID: 990102843766110570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: smwolfp_idle3_2
+      name: wolfp_idle3_2_1
       rect:
         serializedVersion: 2
-        x: 369
+        x: 360
         y: 0
-        width: 346
+        width: 355
         height: 325
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4515420823f445e49b3607faebc97118
-      internalID: 6166604201033984185
+      spriteID: b23eb69e8b89a59439528aa327bdef4d
+      internalID: 8595689844825359712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: smwolfp_idle3_3
+      name: wolfp_idle3_2_2
       rect:
         serializedVersion: 2
-        x: 724
+        x: 725
         y: 0
-        width: 346
+        width: 345
         height: 332
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9bdc14a828f4544e95a6471075da5cd
-      internalID: -3214567986202110184
+      spriteID: 636323cda56806048a87d7dc5fcc01f3
+      internalID: 3504608324937919412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: smwolfp_idle3_4
+      name: wolfp_idle3_2_3
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 2
-        width: 346
-        height: 323
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95b1dca7c4a03cc40be8ab2e71ef0cd7
-      internalID: -821372482509862284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: smwolfp_idle3_5
-      rect:
-        serializedVersion: 2
-        x: 1429
+        x: 1076
         y: 0
-        width: 336
+        width: 338
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9850a51364fb1429efcf945aaae85f
+      internalID: -5833938975955073093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfp_idle3_2_4
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 349
         height: 332
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 883952c9dfeef96419d6f50f112698e7
-      internalID: -8548247965250368214
+      spriteID: 40a243843753d3f49a417c99f0edb9c6
+      internalID: 1483584821962471539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: smwolfp_idle3_6
+      name: wolfp_idle3_2_5
       rect:
         serializedVersion: 2
-        x: 1765
+        x: 1778
         y: 0
-        width: 362
+        width: 354
         height: 332
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d42f86da10d96ea41a10e43d19e6bd8c
-      internalID: -7192718699632818888
+      spriteID: b01518dc694593645b12c1bab5829f5a
+      internalID: -345796553578108330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: smwolfp_idle3_7
+      name: wolfp_idle3_2_6
       rect:
         serializedVersion: 2
-        x: 2134
+        x: 2107
         y: 0
         width: 337
         height: 332
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ba4a5161e0643b48a0b557b66617d6e
-      internalID: 6844074617806728131
+      spriteID: 99b7a9fa284b5f94e971e0310a5d355c
+      internalID: 4199688589013941381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfp_idle3_2_7
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f99b8f79ec35428298099aaac69b5
+      internalID: 5792612752353302076
       vertices: []
       indices: 
       edges: []
@@ -301,7 +311,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8f10bb29c20dee144bf3e4a271c8eeea
+    spriteID: c852ca066026e59449de98ccbbf3ab86
     internalID: 0
     vertices: []
     indices: 
