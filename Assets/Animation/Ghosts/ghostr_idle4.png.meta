@@ -1,28 +1,22 @@
 fileFormatVersion: 2
-guid: 556e81f42d3c6cf40b0e244a0297338b
+guid: ef6f3d51911e76843b2e659d29db524b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7102702196473854428
-    second: mushb_idle3_2_0
+      213: 993717903903935595
+    second: ghostr_idle4_0
   - first:
-      213: -5353373605799418722
-    second: mushb_idle3_2_1
+      213: 6914354646566260297
+    second: ghostr_idle4_1
   - first:
-      213: 3686918490531715247
-    second: mushb_idle3_2_2
+      213: -6727768457180925123
+    second: ghostr_idle4_2
   - first:
-      213: 2556956381221272148
-    second: mushb_idle3_2_3
+      213: 1350350901122161980
+    second: ghostr_idle4_3
   - first:
-      213: 4236996578154092637
-    second: mushb_idle3_2_4
-  - first:
-      213: 7232366601977018842
-    second: mushb_idle3_2_5
-  - first:
-      213: -914330131376853890
-    second: mushb_idle3_2_6
+      213: -8820648285954143428
+    second: ghostr_idle4_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -63,7 +57,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -138,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mushb_idle3_2_0
+      name: ghostr_idle4_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 0
-        width: 153
-        height: 296
+        x: 0
+        y: 29
+        width: 109
+        height: 295
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40ca0bb2c5431dd4bbe723202d415179
-      internalID: -7102702196473854428
+      spriteID: 6affa02cb75b7584c94dba3524c3d512
+      internalID: 993717903903935595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mushb_idle3_2_1
+      name: ghostr_idle4_1
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 163
-        height: 306
+        x: 111
+        y: 25
+        width: 218
+        height: 299
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +167,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 230453e34c4d93c439261eeceed91dc6
-      internalID: -5353373605799418722
+      spriteID: 7f0807e937db00f458266550eb41e228
+      internalID: 6914354646566260297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mushb_idle3_2_2
+      name: ghostr_idle4_2
       rect:
         serializedVersion: 2
-        x: 492
-        y: 0
-        width: 170
-        height: 305
+        x: 330
+        y: 54
+        width: 109
+        height: 297
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +188,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65bfe06b0440b5f44ac07cf44bbd8495
-      internalID: 3686918490531715247
+      spriteID: f7f8e58e353148140988c54c05b419b5
+      internalID: -6727768457180925123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mushb_idle3_2_3
+      name: ghostr_idle4_3
       rect:
         serializedVersion: 2
-        x: 723
-        y: 0
-        width: 166
-        height: 304
+        x: 53
+        y: 26
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +209,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39a920dc62ce7f446b23fc63733e2cac
-      internalID: 2556956381221272148
+      spriteID: 5cafc34b60923cd4fab65737064338cf
+      internalID: 1350350901122161980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mushb_idle3_2_4
+      name: ghostr_idle4_4
       rect:
         serializedVersion: 2
-        x: 972
+        x: 146
         y: 0
-        width: 153
-        height: 296
+        width: 26
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,50 +230,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 603ea3e26dc2da44dba25c91495a2cb1
-      internalID: 4236996578154092637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mushb_idle3_2_5
-      rect:
-        serializedVersion: 2
-        x: 1193
-        y: 0
-        width: 163
-        height: 306
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c8c24a71ac82df42aa801c716c786c7
-      internalID: 7232366601977018842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mushb_idle3_2_6
-      rect:
-        serializedVersion: 2
-        x: 1420
-        y: 0
-        width: 151
-        height: 309
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7fecebe9087e9646b678c97538e26a5
-      internalID: -914330131376853890
+      spriteID: 1afe16ef61d0cc944a24f1bd5fbb8d30
+      internalID: -8820648285954143428
       vertices: []
       indices: 
       edges: []
@@ -287,7 +239,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4f6cc03541175954a905fa78d797f16a
+    spriteID: 62250e6fe7615c64bacb8057aad625dd
     internalID: 0
     vertices: []
     indices: 
