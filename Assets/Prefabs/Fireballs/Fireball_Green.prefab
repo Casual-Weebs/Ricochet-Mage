@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8867151347827436863}
   - component: {fileID: 3863472378034348487}
   - component: {fileID: 44399064130646918}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: magic_rounder_17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 8952543019152595654}
   - component: {fileID: 1773519410748765531}
   - component: {fileID: 1284041093847620529}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Fireball_Green
   m_TagString: Bullet
   m_Icon: {fileID: 0}
