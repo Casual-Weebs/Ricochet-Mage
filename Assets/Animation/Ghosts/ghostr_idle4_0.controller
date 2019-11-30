@@ -12,7 +12,7 @@ AnimatorController:
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
-    m_StateMachine: {fileID: 4425102020841746271}
+    m_StateMachine: {fileID: 3487613339525653153}
     m_Mask: {fileID: 0}
     m_Motions: []
     m_Behaviours: []
@@ -22,7 +22,7 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
---- !u!1107 &4425102020841746271
+--- !u!1107 &3487613339525653153
 AnimatorStateMachine:
   serializedVersion: 5
   m_ObjectHideFlags: 1
@@ -32,7 +32,7 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: 4926868171984040575}
+    m_State: {fileID: 7767532659239502145}
     m_Position: {x: 200, y: 0, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
@@ -43,8 +43,8 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 4926868171984040575}
---- !u!1102 &4926868171984040575
+  m_DefaultState: {fileID: 7767532659239502145}
+--- !u!1102 &7767532659239502145
 AnimatorState:
   serializedVersion: 5
   m_ObjectHideFlags: 1
@@ -52,7 +52,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ghostr
-  m_Speed: 1
+  m_Speed: 0.3
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []

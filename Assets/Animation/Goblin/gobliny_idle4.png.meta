@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -152,6 +152,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -164,7 +175,7 @@ TextureImporter:
         width: 209
         height: 349
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -172,27 +183,6 @@ TextureImporter:
       bones: []
       spriteID: bfe0c9b3e93286142a0e02afcc1a89a0
       internalID: 775912551922533384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_1
-      rect:
-        serializedVersion: 2
-        x: 249
-        y: 67
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9212e7ba721dc434b84862f66a14916c
-      internalID: 6793695913110749371
       vertices: []
       indices: 
       edges: []
@@ -206,7 +196,7 @@ TextureImporter:
         width: 208
         height: 346
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -214,27 +204,6 @@ TextureImporter:
       bones: []
       spriteID: 554ab27bd606fbb448788cc8d79228b9
       internalID: 5323999025441524471
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_3
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 67
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c7e3dc3ee159e241a98baea2083d362
-      internalID: -5498354234815559745
       vertices: []
       indices: 
       edges: []
@@ -248,7 +217,7 @@ TextureImporter:
         width: 209
         height: 349
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -256,27 +225,6 @@ TextureImporter:
       bones: []
       spriteID: f32b4afd924a5ad47b8954aeb20d3a75
       internalID: 6312483286003323618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_5
-      rect:
-        serializedVersion: 2
-        x: 773
-        y: 67
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e304c6e097e6ed4e9eb667d7f0dd49c
-      internalID: 4914152369107051286
       vertices: []
       indices: 
       edges: []
@@ -290,7 +238,7 @@ TextureImporter:
         width: 208
         height: 348
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -298,132 +246,6 @@ TextureImporter:
       bones: []
       spriteID: f9dc9114efaf77b44a656ecd4dc385b9
       internalID: -4608762722141459069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_7
-      rect:
-        serializedVersion: 2
-        x: 1035
-        y: 67
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80df5b3478862124a9d9147d175bc7b4
-      internalID: 2921672310414404561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_8
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 23
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3bc7dae191266d241b945220c48e84df
-      internalID: -2862828049158159554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_9
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 0
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 677006debf92b494c97058807731abf4
-      internalID: 742653959923916083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_10
-      rect:
-        serializedVersion: 2
-        x: 351
-        y: 0
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd186ebcc4575cf4d9f1942cfd5a65ac
-      internalID: 504218001512538492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_11
-      rect:
-        serializedVersion: 2
-        x: 613
-        y: 0
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8985a61902e91049b27a5d90308ce8f
-      internalID: 515033964118725783
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gobliny_idle4_12
-      rect:
-        serializedVersion: 2
-        x: 875
-        y: 0
-        width: 4
-        height: 4
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1353fc14f29adf241a7a1912b035e29b
-      internalID: -2491861499837365073
       vertices: []
       indices: 
       edges: []

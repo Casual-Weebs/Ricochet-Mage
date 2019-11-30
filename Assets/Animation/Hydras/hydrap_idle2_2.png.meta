@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -134,6 +134,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -146,7 +157,7 @@ TextureImporter:
         width: 384
         height: 328
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -167,7 +178,7 @@ TextureImporter:
         width: 351
         height: 323
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,111 +186,6 @@ TextureImporter:
       bones: []
       spriteID: bd330329eee77414784b96a0c99e4b0c
       internalID: -4219992825075155838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hydrap_idle2_2_2
-      rect:
-        serializedVersion: 2
-        x: 749
-        y: 197
-        width: 4
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdd63588f2222ff4487644fbd26700c9
-      internalID: 3657070708367479662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hydrap_idle2_2_3
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 0
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c29321c9a49f4b54f9109cd776365b3c
-      internalID: 9087890455727710585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hydrap_idle2_2_4
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 2
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ccf3a11ff2cb2643ba02acced071748
-      internalID: 144047159599073705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hydrap_idle2_2_5
-      rect:
-        serializedVersion: 2
-        x: 450
-        y: 0
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd4f9e25085f1eb4997fad033ac95003
-      internalID: -8823496510662373446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hydrap_idle2_2_6
-      rect:
-        serializedVersion: 2
-        x: 563
-        y: 2
-        width: 6
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7236b7121ba1d524893a7a4acb44229a
-      internalID: 4719643929009729657
       vertices: []
       indices: 
       edges: []

@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -125,6 +125,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -134,7 +145,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 18
-        width: 291
+        width: 314
         height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -143,29 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb1774bfd1e43c14b82ee5fceebdfdc5
+      spriteID: 8963446f764415c49ad2bf25dcaa493b
       internalID: -2428030546295252654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fairyp_idle2_1
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 58
-        width: 38
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 466db0101867dee4185ec007c691bed1
-      internalID: -8968958790595590969
       vertices: []
       indices: 
       edges: []
@@ -176,7 +166,7 @@ TextureImporter:
         serializedVersion: 2
         x: 333
         y: 0
-        width: 302
+        width: 322
         height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -185,29 +175,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bd9d25d7ab99fd408b9bd3eba37887b
+      spriteID: f5cdac4c1f6dc5c4aa8c209f2d4d6465
       internalID: 3818868011093700914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fairyp_idle2_3
-      rect:
-        serializedVersion: 2
-        x: 629
-        y: 45
-        width: 31
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2750a216e5b37a14aadbb6f2271e069f
-      internalID: -2116632090658878958
       vertices: []
       indices: 
       edges: []

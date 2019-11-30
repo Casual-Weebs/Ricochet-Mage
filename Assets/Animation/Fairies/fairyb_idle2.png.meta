@@ -134,10 +134,10 @@ TextureImporter:
         serializedVersion: 2
         x: 11
         y: 18
-        width: 282
+        width: 300
         height: 267
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,36 +150,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fairyb_idle2_1
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 58
-        width: 31
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33a4ff34f18e28146be09a9c10dbfa73
-      internalID: -373376040347645740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fairyb_idle2_2
       rect:
         serializedVersion: 2
         x: 324
         y: 0
-        width: 302
+        width: 320
         height: 272
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,27 +166,6 @@ TextureImporter:
       bones: []
       spriteID: e4ad2a4abdf470645a326c9dfbff5029
       internalID: 3880123955094748754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fairyb_idle2_3
-      rect:
-        serializedVersion: 2
-        x: 620
-        y: 45
-        width: 44
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1ed2a72948c75a745908e8a17527eda5
-      internalID: -8926464468767853083
       vertices: []
       indices: 
       edges: []

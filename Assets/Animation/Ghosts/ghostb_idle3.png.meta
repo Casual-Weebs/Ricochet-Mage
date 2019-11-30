@@ -151,7 +151,7 @@ TextureImporter:
         width: 109
         height: 295
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -169,10 +169,10 @@ TextureImporter:
         serializedVersion: 2
         x: 111
         y: 25
-        width: 218
+        width: 108
         height: 299
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -193,7 +193,7 @@ TextureImporter:
         width: 109
         height: 297
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -209,40 +209,19 @@ TextureImporter:
       name: ghostb_idle3_3
       rect:
         serializedVersion: 2
-        x: 53
-        y: 26
-        width: 4
-        height: 5
+        x: 221
+        y: 25
+        width: 108
+        height: 299
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd76c23154791f145a163e18b387397a
+      spriteID: 8df83ee8d70323c48bd959d4da334faf
       internalID: -4380865043678948167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ghostb_idle3_4
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 0
-        width: 26
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62f62c6421303b94a9987cd9d7ab640d
-      internalID: 1661649480087314452
       vertices: []
       indices: 
       edges: []

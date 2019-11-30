@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -125,6 +125,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -134,10 +145,10 @@ TextureImporter:
         serializedVersion: 2
         x: 11
         y: 18
-        width: 282
+        width: 306
         height: 267
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,36 +161,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fairyr_idle2_1
-      rect:
-        serializedVersion: 2
-        x: 287
-        y: 58
-        width: 31
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf1c4c35f073afc44a23a2d6aea2f206
-      internalID: 4598046954489411826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fairyr_idle2_2
       rect:
         serializedVersion: 2
         x: 324
         y: 0
-        width: 302
+        width: 323
         height: 272
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,27 +177,6 @@ TextureImporter:
       bones: []
       spriteID: d5a58b63fb9d74549b2af59888ea0e1b
       internalID: -3826046480762445345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fairyr_idle2_3
-      rect:
-        serializedVersion: 2
-        x: 620
-        y: 45
-        width: 44
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b681e8dc640ad1342bdb2c7e385f2fc4
-      internalID: -5321279650353133692
       vertices: []
       indices: 
       edges: []

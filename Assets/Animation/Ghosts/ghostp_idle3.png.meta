@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -128,6 +128,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,7 +151,7 @@ TextureImporter:
         width: 109
         height: 295
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -158,10 +169,10 @@ TextureImporter:
         serializedVersion: 2
         x: 111
         y: 25
-        width: 218
+        width: 108
         height: 299
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -182,7 +193,7 @@ TextureImporter:
         width: 109
         height: 297
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -198,40 +209,19 @@ TextureImporter:
       name: ghostp_idle3_3
       rect:
         serializedVersion: 2
-        x: 53
-        y: 26
-        width: 4
-        height: 5
+        x: 220
+        y: 25
+        width: 108
+        height: 299
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afc34a25c1ee45b488b9949fd8dd6623
+      spriteID: fea6b51054238bd44881188d1587d01d
       internalID: -793685653072694363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ghostp_idle3_4
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 0
-        width: 26
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 110794d61c01ddd4081555b651eefde1
-      internalID: 1780457769442676673
       vertices: []
       indices: 
       edges: []

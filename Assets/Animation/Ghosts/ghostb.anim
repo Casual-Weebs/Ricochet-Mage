@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ghostg
+  m_Name: ghostb
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -31,9 +31,6 @@ AnimationClip:
     - time: 0.25
       value: {fileID: -4380865043678948167, guid: 28e564c544854c24d8ba11d380babde4,
         type: 3}
-    - time: 0.33333334
-      value: {fileID: 1661649480087314452, guid: 28e564c544854c24d8ba11d380babde4,
-        type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -57,13 +54,12 @@ AnimationClip:
     - {fileID: -633345593659169432, guid: 28e564c544854c24d8ba11d380babde4, type: 3}
     - {fileID: 612369073957701359, guid: 28e564c544854c24d8ba11d380babde4, type: 3}
     - {fileID: -4380865043678948167, guid: 28e564c544854c24d8ba11d380babde4, type: 3}
-    - {fileID: 1661649480087314452, guid: 28e564c544854c24d8ba11d380babde4, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.4166667
+    m_StopTime: 0.33333334
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
