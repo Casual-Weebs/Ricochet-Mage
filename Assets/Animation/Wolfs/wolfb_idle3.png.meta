@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ae80985b8879a0a4294be677e461b555
+guid: e03c3f75ba72aec4c9a13c6f113b4ba5
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -55,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -66,7 +66,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -87,7 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -98,7 +98,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,29 +109,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Lumin
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -142,7 +120,29 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -157,7 +157,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 345
+        width: 346
         height: 332
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -166,7 +166,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb84277f0a6b7fc4bb015912b3bd39a8
+      spriteID: a52df1e1f226bb5439f5479e61605baa
       internalID: 3458783042805098535
       vertices: []
       indices: 
@@ -178,7 +178,7 @@ TextureImporter:
         serializedVersion: 2
         x: 354
         y: 0
-        width: 337
+        width: 338
         height: 325
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -187,7 +187,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 813c577cc32db0344a95e99100131a91
+      spriteID: 155eddfcd72020c4e9dcb985a0c5a7fb
       internalID: -2011920389547927846
       vertices: []
       indices: 
@@ -199,48 +199,6 @@ TextureImporter:
         serializedVersion: 2
         x: 697
         y: 0
-        width: 351
-        height: 332
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92e5bb1e5533ce346b7b52b37ad0a16b
-      internalID: 6007218266902428421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: wolfb_idle3_3
-      rect:
-        serializedVersion: 2
-        x: 1053
-        y: 0
-        width: 341
-        height: 325
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a62f61d053733524b935922b8edd2d73
-      internalID: 4077502103839153522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: wolfb_idle3_5
-      rect:
-        serializedVersion: 2
-        x: 1423
-        y: 0
         width: 352
         height: 332
       alignment: 0
@@ -250,19 +208,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6488c09aeb0dd44489c7bf1cd2cf51be
-      internalID: -2287990797491488593
+      spriteID: 023bc81e3402b0a43b3724599fa0b192
+      internalID: 6007218266902428421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wolfb_idle3_6
+      name: wolfb_idle3_3
       rect:
         serializedVersion: 2
-        x: 1782
+        x: 1054
         y: 0
-        width: 354
+        width: 353
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43303e6d518c864449f9b34a51442c2b
+      internalID: 4077502103839153522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfb_idle3_4
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 0
+        width: 353
         height: 332
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -271,8 +250,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4a7d9f88ec321e4389a0d300b018b09
-      internalID: 5531451287848462021
+      spriteID: 6a7681f0976f2a74886ec5d8445b201e
+      internalID: 7145195688011746276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolfb_idle3_5
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 0
+        width: 361
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc195ff628a66d9458ee92585587020e
+      internalID: -2287990797491488593
       vertices: []
       indices: 
       edges: []
@@ -281,10 +281,10 @@ TextureImporter:
       name: wolfb_idle3_7
       rect:
         serializedVersion: 2
-        x: 2098
+        x: 2140
         y: 0
-        width: 337
-        height: 332
+        width: 339
+        height: 331
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,7 +292,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 850a947afdfa88248971c52959cc5e93
+      spriteID: 3fb3a8938da038d41a9d9e26383d1ff8
       internalID: -795813064142086816
       vertices: []
       indices: 
@@ -301,7 +301,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: de914fd5f1855a14da53f35a9b46e2c3
+    spriteID: 5de9709b2d721d74abfa917703acbc72
     internalID: 0
     vertices: []
     indices: 
