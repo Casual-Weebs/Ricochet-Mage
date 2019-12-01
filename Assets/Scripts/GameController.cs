@@ -62,6 +62,8 @@ public class GameController : MonoBehaviour
             ricochetWin.SetActive(true);
 
             ricochetWinButton.SetActive(true);
+
+            mana = 0;
         }
         //Lose
         if (GameObject.FindGameObjectsWithTag("Enemy").Length > 0 && GameObject.FindGameObjectsWithTag("Bullet").Length <= 0 && mana <= 0)
@@ -92,8 +94,8 @@ public class GameController : MonoBehaviour
     
     void ScatterShoot()
     {
-        Instantiate(bulletPrefab, scatterPoint1.position, firePoint.rotation);
-        Instantiate(bulletPrefab, scatterPoint2.position, firePoint.rotation);
+        Instantiate(bulletPrefab, scatterPoint1.position, scatterPoint1.rotation);
+        Instantiate(bulletPrefab, scatterPoint2.position, scatterPoint2.rotation);
         mana--;
         if (mana == 3) shot4.SetActive(false);
         if (mana == 2) shot3.SetActive(false);
