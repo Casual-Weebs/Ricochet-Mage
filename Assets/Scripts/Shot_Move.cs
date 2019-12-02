@@ -7,6 +7,8 @@ public class Shot_Move : MonoBehaviour
     public float speed;
     public float lifetime;
     public Rigidbody2D rb;
+    public GameObject enemyDeath;
+
     
     void Start()
     {
@@ -18,6 +20,7 @@ public class Shot_Move : MonoBehaviour
         if (other.gameObject.CompareTag("Enemy"))
         {
             other.gameObject.SetActive(false);
+            Instantiate(enemyDeath, other.transform.position, other.transform.rotation);
         }
     }
 }
