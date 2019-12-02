@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4538956921540784055}
   - component: {fileID: 6049371668939839601}
   - component: {fileID: 2619372509394481433}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: magic_rounder_14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ GameObject:
   - component: {fileID: 6279974577065985328}
   - component: {fileID: 4061928935496570875}
   - component: {fileID: 7457361364877082236}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4858,7 +4858,7 @@ GameObject:
   - component: {fileID: 8952543019152595654}
   - component: {fileID: 1773519410748765531}
   - component: {fileID: 1284041093847620529}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Fireball_Red
   m_TagString: Bullet
   m_Icon: {fileID: 0}
