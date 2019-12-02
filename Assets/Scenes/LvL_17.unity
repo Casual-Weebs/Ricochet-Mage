@@ -448,7 +448,7 @@ PrefabInstance:
     - target: {fileID: 3993861479754299956, guid: 8c66832d950ae9541adedcc0b92318f5,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3993861479754299956, guid: 8c66832d950ae9541adedcc0b92318f5,
         type: 3}
@@ -3493,7 +3493,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 8
+      scalar: 9
       minScalar: 5
       maxCurve:
         serializedVersion: 2

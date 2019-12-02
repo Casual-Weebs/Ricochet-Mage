@@ -22,7 +22,7 @@ public class GameController : MonoBehaviour
 
     private bool charge = false;
 
-    private float wait = 1f;
+    private float wait = 2f;
 
     public float mana;
     public Transform firePoint;
