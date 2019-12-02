@@ -1019,7 +1019,7 @@ PrefabInstance:
     - target: {fileID: 3993861479754299956, guid: 458b82bc0fbf7e74f862f1126a48e36a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3993861479754299956, guid: 458b82bc0fbf7e74f862f1126a48e36a,
         type: 3}
@@ -9163,7 +9163,7 @@ MonoBehaviour:
   firePoint: {fileID: 149462868}
   scatterPoint1: {fileID: 421060231}
   scatterPoint2: {fileID: 170755209}
-  bulletPrefab: {fileID: 7469260040553928930, guid: 76aca7b9eeefa674d92fcd8efbfc2a6d,
+  bulletPrefab: {fileID: 7469260040553928930, guid: 1c68d403dfcc5684eb6971e549571b65,
     type: 3}
 --- !u!1 &1596035863
 GameObject:

@@ -8919,7 +8919,7 @@ MonoBehaviour:
   firePoint: {fileID: 149462868}
   scatterPoint1: {fileID: 478016472}
   scatterPoint2: {fileID: 524899112}
-  bulletPrefab: {fileID: 7469260040553928930, guid: 180d5d72ff13921408e8a1d258e99c60,
+  bulletPrefab: {fileID: 7469260040553928930, guid: c535dc59e2baa184ba1322d67426f842,
     type: 3}
 --- !u!1 &1595917070
 GameObject:
