@@ -7760,12 +7760,12 @@ PrefabInstance:
     - target: {fileID: 3993861479754299956, guid: 5f34290ad452be44b85033d8dd7d998b,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.26
+      value: 2.51
       objectReference: {fileID: 0}
     - target: {fileID: 3993861479754299956, guid: 5f34290ad452be44b85033d8dd7d998b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.665096
+      value: -2.13
       objectReference: {fileID: 0}
     - target: {fileID: 3993861479754299956, guid: 5f34290ad452be44b85033d8dd7d998b,
         type: 3}
@@ -7811,6 +7811,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3993861479754299956, guid: 5f34290ad452be44b85033d8dd7d998b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.844
+      objectReference: {fileID: 0}
+    - target: {fileID: 3993861479754299956, guid: 5f34290ad452be44b85033d8dd7d998b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.844
+      objectReference: {fileID: 0}
+    - target: {fileID: 3993861479754299956, guid: 5f34290ad452be44b85033d8dd7d998b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.844
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5f34290ad452be44b85033d8dd7d998b, type: 3}
@@ -8619,7 +8634,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: LvL_02
+          m_StringArgument: LvL_06
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -9459,7 +9474,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: LvL_03
+          m_StringArgument: LvL_07
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,

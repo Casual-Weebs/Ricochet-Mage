@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Prototype_Game.unity
     guid: c3ea70661cdfff04dac59e8b3cbb75b3
   - enabled: 1
+    path: Assets/Scenes/LogoSplash.unity
+    guid: 2d4dc190857ca644cb964f19a3b61fdb
+  - enabled: 1
     path: Assets/Scenes/LvL_01.unity
     guid: a112d7436ebbaa24a8d1602a21449fd6
   - enabled: 1
@@ -64,19 +67,16 @@ EditorBuildSettings:
     guid: 10c8ae960ec551f48ba0ded81b084c62
   - enabled: 1
     path: Assets/Scenes/LvL_17.unity
-    guid: 42864c67765d8494cb2bac2ca59a8683
+    guid: b1989f5ba56cae44399b27dd75aa0bff
   - enabled: 1
     path: Assets/Scenes/LvL_18.unity
-    guid: b40ef357c7db8da4c969c25a3fded0d6
+    guid: f89a4871251c8a449aec6a796407ad52
   - enabled: 1
     path: Assets/Scenes/LvL_19.unity
-    guid: 5e59e3ac54375d54c8bc23076ef35fb0
+    guid: fec947f9d1848da478c3b2acbea5daba
   - enabled: 1
     path: Assets/Scenes/LvL_20.unity
-    guid: a2d2f05214e3260408c1d3ba92275183
-  - enabled: 1
-    path: Assets/Scenes/LogoSplash.unity
-    guid: 2d4dc190857ca644cb964f19a3b61fdb
+    guid: f1ee7e937c1c28e4bbda0c788989b4cd
   - enabled: 1
     path: Assets/Scenes/Volume.unity
     guid: 3512535b51485db439471df71ef440c2
